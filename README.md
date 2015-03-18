@@ -7,3 +7,5 @@ This is a project seed with HapiJS and sequelize:
 - The server configuration is defined in the **config** folder. The **node-config** package was used for configuration purposes, read more [here](https://www.npmjs.com/package/config).
 
 Server plugins should be configured in the main *server.js* file.
+
+There are many HapiJS plugins, check the full list [here](http://hapijs.com/plugins).
